@@ -35,7 +35,7 @@ Recursos disponibles
 
 -   **Descripción:** Contiene los datos de los bienes secuestrados, decomisados o afectados a una medida cautelar, en el marco de un proceso penal, datos del juzgado, delito y características de cada bien tales como marca, modelo, etc.
 
--   **Formato:** CSV delimitado por coma, codificado en UTF-8
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 -   **Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
 
