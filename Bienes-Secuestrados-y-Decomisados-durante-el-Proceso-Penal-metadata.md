@@ -7,7 +7,7 @@ Dicho RNBSD ha sido se creado por [*Decreto Nº 826*](http://servicios.infoleg.g
 
 En este mismo orden de ideas, la Decisión Administrativa N° 483 ([**http://www.infoleg.gob.ar/infolegInternet/anexos/260000-264999/261473/norma.htm**](http://www.infoleg.gob.ar/infolegInternet/anexos/260000-264999/261473/norma.htm)) del 17 de mayo de 2016, que aprueba la Estructura Organizativa del Ministerio de Justicia y Derechos Humanos, y determina que el RNBSD depende de la Coordinación de Registro de Bienes y Derechos Reales, dependiente de la Subsecretaria de Asuntos Registrales y determina cuál será la responsabilidad primaria y las acciones de dicho organismo.
 
-En la sección notas se detallará la normativa Nacional e Internacional vinculada con la actividad del registro.
+En la sección **Notas** se detallará la normativa Nacional e Internacional vinculada con la actividad del registro.
 
 Características
 ---------------
