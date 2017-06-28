@@ -12,7 +12,7 @@ En la sección **Notas**, al final de este documento, se detallará la normativa
 Características
 ---------------
 
--   **Fecha de Primera Publicación:** 
+-   **Fecha de Primera Publicación:** 28/06/2017
 
 -   **Tags o Etiquetas:** bienes, bienes secuestrados, bienes decomisados, medida cautelar, proceso penal, aeronave, armas, vehículos, buque, dinero, estupefacientes, inmuebles
 
