@@ -135,7 +135,7 @@ http://www.infoleg.gob.ar/infolegInternet/anexos/40000-44999/41466/norma.htm
 
 • Convención Internacional Contra la Delincuencia Organizada Transnacional y protocolos complementarios. Ley N° 25.632.
 
-http://www.infoleg.gob.ar/infolegInternet/verNorma.do?id=77329
+http://servicios.infoleg.gob.ar/infolegInternet/anexos/75000-79999/77329/norma.htm
 
 • Convención Interamericana Contra el Terrorismo. Ley N°26.023.
 
