@@ -1,4 +1,4 @@
-Bienes Secuestrados y Decomisados durante el Proceso Penal
+Bienes secuestrados y decomisados durante el proceso penal
 ==========================================================
 
 En este conjunto de datos se detallan los bienes secuestrados, decomisados y/ o afectados a una medida cautelar, durante la sustanciación de un proceso penal, que fueran informados al Registro de Bienes Secuestrados y Decomisados durante el Proceso Penal (RNBSD) por la autoridad interviniente en dicho proceso, cuya competencia es de carácter Nacional y/ o Federal.
@@ -29,7 +29,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Bienes Secuestrados y Decomisados durante el Proceso Penal
+### Bienes secuestrados y decomisados durante el proceso penal
 
 -   **Nombre:** bienes-secuestrados-decomisados-proceso-penal-AAAA-MM.csv
 
