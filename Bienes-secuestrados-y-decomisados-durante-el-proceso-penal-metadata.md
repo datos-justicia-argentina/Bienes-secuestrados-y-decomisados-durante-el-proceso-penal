@@ -3,9 +3,9 @@ Bienes secuestrados y decomisados durante el proceso penal
 
 En este conjunto de datos se detallan los bienes secuestrados, decomisados y/ o afectados a una medida cautelar, durante la sustanciación de un proceso penal, que fueran informados al Registro de Bienes Secuestrados y Decomisados durante el Proceso Penal (RNBSD) por la autoridad interviniente en dicho proceso, cuya competencia es de carácter Nacional y/ o Federal.
 
-Dicho RNBSD ha sido se creado por [*Decreto Nº 826*](http://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183500/norma.htm) del 17 de Junio de 2011, en el ámbito del Ministerio de Justicia y Derechos Humanos de la Nación, para identificar, registrar, valuar y localizar la totalidad de los bienes secuestrados, decomisados o afectados a una medida cautelar, en el marco de un proceso penal, con la finalidad de articular, coordinar e implementar políticas públicas activas para combatir el lavado de activos de origen ilícito en nuestro país y la región.
+Dicho RNBSD ha sido se creado por *Decreto Nº 826* del 17 de Junio de 2011, en el ámbito del Ministerio de Justicia y Derechos Humanos de la Nación, para identificar, registrar, valuar y localizar la totalidad de los bienes secuestrados, decomisados o afectados a una medida cautelar, en el marco de un proceso penal, con la finalidad de articular, coordinar e implementar políticas públicas activas para combatir el lavado de activos de origen ilícito en nuestro país y la región.
 
-En este mismo orden de ideas, la Decisión Administrativa N° 483 ([**http://www.infoleg.gob.ar/infolegInternet/anexos/260000-264999/261473/norma.htm**](http://www.infoleg.gob.ar/infolegInternet/anexos/260000-264999/261473/norma.htm)) del 17 de mayo de 2016, que aprueba la Estructura Organizativa del Ministerio de Justicia y Derechos Humanos, y determina que el RNBSD depende de la Coordinación de Registro de Bienes y Derechos Reales, dependiente de la Subsecretaria de Asuntos Registrales y determina cuál será la responsabilidad primaria y las acciones de dicho organismo.
+En este mismo orden de ideas, la Decisión Administrativa N° 483 (**http://www.infoleg.gob.ar/infolegInternet/anexos/260000-264999/261473/norma.htm**) del 17 de mayo de 2016, que aprueba la Estructura Organizativa del Ministerio de Justicia y Derechos Humanos, y determina que el RNBSD depende de la Coordinación de Registro de Bienes y Derechos Reales, dependiente de la Subsecretaria de Asuntos Registrales y determina cuál será la responsabilidad primaria y las acciones de dicho organismo.
 
 En la sección notas se detallará la normativa Nacional e Internacional vinculada con la actividad del registro.
 
@@ -41,85 +41,85 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **Tipo\_bien (string):** tipo de bien. Son los activos de cualquier tipo, corporales o incorporales, muebles o inmuebles, tangibles o intangibles, y los documentos o instrumentos legales que acrediten la propiedad u otros derechos sobre dichos activos. Pueden ser aeronave, armas, automotores, buques, dinero, estupefacientes o inmuebles
+-   **tipo_bien (string):** tipo de bien. Son los activos de cualquier tipo, corporales o incorporales, muebles o inmuebles, tangibles o intangibles, y los documentos o instrumentos legales que acrediten la propiedad u otros derechos sobre dichos activos. Pueden ser aeronave, armas, automotores, buques, dinero, estupefacientes o inmuebles
 
--   **numero\_oficio (int):** número correspondiente oficio mediante el cual la autoridad interviniente informa los bienes secuestrados y/ o decomisados en el marco de un proceso penal
+-   **numero_oficio (int):** número correspondiente oficio mediante el cual la autoridad interviniente informa los bienes secuestrados y/ o decomisados en el marco de un proceso penal
 
--   **Juzgado/ Tribunal/ Fiscalía (string):** nombre de la autoridad interviniente según corresponda
+-   **juzgado (string):** nombre de la autoridad interviniente según corresponda: Juzgado, Tribunal, Fiscalía
 
--   **tipo\_delito (string):** describe el tipo de delito que se sustancia en el marco de un proceso penal
+-   **tipo_delito (string):** describe el tipo de delito que se sustancia en el marco de un proceso penal
 
 -   **medida (string):** tipo de medida. Consiste en la medida adoptada por la autoridad interviniente en el marco del proceso penal. Pueden ser: afectado a medida cautelar – Embargo, afectado a otra medida, decomiso o secuestro
 
--   **fecha\_recepcion (date):** fecha de recepción del oficio por el Registro Nacional de Bienes Secuestrados y Decomisados durante el Proceso Penal
+-   **fecha_recepcion (date):** fecha de recepción del oficio por el Registro Nacional de Bienes Secuestrados y Decomisados durante el Proceso Penal
 
-<!-- -->
-
--   **fecha\_medida (string):** fecha de la medida adoptada por la autoridad interviniente. No siempre es informada
+-   **fecha_medida (string):** fecha de la medida adoptada por la autoridad interviniente. No siempre es informada
 
 -   **localizacion (string):** **:** lugar donde se encuentra el bien, ubicación física del bien
 
 -   **provincia (string):** nombre de provincial donde se encuentra localizado el bien
 
--   **estupefaciente\_sustancia (string):** tipo de sustancia psicotrópica informada por la autoridad interviniente, la cual puede ser: Cocaína, Hojas de coca, Hongos, LSD, Marihuana, Éxtasis, de uso famacológico, etc. Sólo posee datos si el bien es estupefacientes
+-   **estupefaciente_sustancia (string):** tipo de sustancia psicotrópica informada por la autoridad interviniente, la cual puede ser: Cocaína, Hojas de coca, Hongos, LSD, Marihuana, Éxtasis, de uso famacológico, etc. Sólo posee datos si el bien es estupefacientes
 
--   **estupefaciente\_cantidad (string):** cantidad en gramos de la sustancia. Sólo posee datos si el bien es estupefacientes
+-   **estupefaciente_cantidad (string):** cantidad en gramos de la sustancia. Sólo posee datos si el bien es estupefacientes
 
-<!-- -->
+-   **arma_tipo (string):** tipo de arma informada por la autoridad interviniente, la cual puede ser: Ametralladora, Carabina, Escopeta, Fusil, Pistola, Revolver, Subfusil, etc. Sólo posee datos si el bien es arma
 
--   **arma\_tipo (string):** tipo de arma informada por la autoridad interviniente, la cual puede ser: Ametralladora, Carabina, Escopeta, Fusil, Pistola, Revolver, Subfusil, etc. Sólo posee datos si el bien es arma
+-   **arma_numero_serie (string):** número de serie del arma. Sólo posee datos si el bien es arma
 
--   **arma\_numero\_serie (string):** número de serie del arma. Sólo posee datos si el bien es arma
+-   **arma_marca (string):** marca del arma. Sólo posee datos si el bien es arma
 
--   **arma\_marca (string):** marca del arma. Sólo posee datos si el bien es arma
+-   **arma_modelo (string):** modelo del arma. Sólo posee datos si el bien es arma
 
--   **arma\_modelo (string):** modelo del arma. Sólo posee datos si el bien es arma
+-   **arma_calibre (string):** calibre del arma. Sólo posee datos si el bien es arma
 
--   **arma\_calibre (string):** calibre del arma. Sólo posee datos si el bien es arma
+-   **automotor_tipo (string):** tipo de automotor informado por la autoridad interviniente, el cual puede ser: Automóvil, Camión, Camioneta, Casa Rodante, Colectivo, Jeep, Moto-vehículo, Trailer, etc. Sólo posee datos si el bien es automotor
 
-<!-- -->
+-   **automotor_dominio (string):** número de dominio del automotor. Sólo posee datos si el bien es automotor
 
--   **automotor\_tipo (string):** tipo de automotor informado por la autoridad interviniente, el cual puede ser: Automóvil, Camión, Camioneta, Casa Rodante, Colectivo, Jeep, Moto-vehículo, Trailer, etc. Sólo posee datos si el bien es automotor
+-   **automotor_marca (string):** marca del automotor. Sólo posee datos si el bien es automotor
 
--   **automotor\_dominio (string):** número de dominio del automotor. Sólo posee datos si el bien es automotor
+-   **automotor_modelo (string):** modelo del automotor. Sólo posee datos si el bien es automotor
 
-<!-- -->
+-   **automotor_color (string):** color del automotor. Sólo posee datos si el bien es automotor
 
--   **automotor\_marca (string):** marca del automotor. Sólo posee datos si el bien es automotor
+-   **automotor_anio (string):** año modelo del automotor. Sólo posee datos si el bien es automotor
 
--   **automotor\_modelo (string):** modelo del automotor. Sólo posee datos si el bien es automotor
+-   **aeronave_numero_serie (string):** número de serie de la aeronave. Sólo posee datos si el bien es aeronave
 
--   **automotor\_color (string):** color del automotor. Sólo posee datos si el bien es automotor
+-   **aeronave_matricula (string):** número de matrícula de la aeronave. Sólo posee datos si el bien es aeronave
 
--   **automotor\_anio (string):** año modelo del automotor. Sólo posee datos si el bien es automotor
+-   **aeronave_marca (string):** marca de la aeronave. Sólo posee datos si el bien es aeronave
 
-<!-- -->
+-   **aeronave_modelo (string):** modelo de la aeronave. Sólo posee datos si el bien es aeronave
 
--   **aeronave\_numero\_serie (string):** número de serie de la aeronave. Sólo posee datos si el bien es aeronave
+-   **buque_pais (string):** país al que pertenece el buque. Sólo posee datos si el bien es buque
 
--   **aeronave\_matricula (string):** número de matrícula de la aeronave. Sólo posee datos si el bien es aeronave
+-   **buque_nombre (string):** nombre del buque. Sólo posee datos si el bien es buque
 
--   **aeronave\_marca (string):** marca de la aeronave. Sólo posee datos si el bien es aeronave
+-   **buque_matricula (string):** número de matrícula del buque. Sólo posee datos si el bien es buque
 
-<!-- -->
+-   **dinero_moneda_descripcion (string):** tipo de moneda. Cualquier tipo de moneda informada por la autoridad interviniente, generalmente, dólares, pesos argentinos, reales, soles, etc. Sólo posee datos si el bien es dinero
 
--   **aeronave\_modelo (string):** modelo de la aeronave. Sólo posee datos si el bien es aeronave
+-   **dinero_cantidad (string):** monto en la moneda especificada. Sólo posee datos si el bien es dinero
 
-<!-- -->
+-   **titulo_tipo (string):** tipo de título. Sólo posee datos si el bien es título
 
--   **buque\_pais (string):** país al que pertenece el buque. Sólo posee datos si el bien es buque
+-   **titulo_nombre_emisor (string):** nombre del emisor del título. Sólo posee datos si el bien es título
 
--   **buque\_nombre (string):** nombre del buque. Sólo posee datos si el bien es buque
+-   **titulo_cantidad (string):** cantidad de títulos. Sólo posee datos si el bien es título  
 
--   **buque\_matricula (string):** número de matrícula del buque. Sólo posee datos si el bien es buque
+-   **titulo_fecha_vencimiento (string):** fecha de vencimiento del título. Sólo posee datos si el bien es título
 
-<!-- -->
+-   **titulo_categoria (string):** categoría del título. Sólo posee datos si el bien es título  
 
--   **dinero\_moneda\_descripcion (string):** tipo de moneda. Cualquier tipo de moneda informada por la autoridad interviniente, generalmente, dólares, pesos argentinos, reales, soles, etc. Sólo posee datos si el bien es dinero
+-   **titulo_bolsa_cotiza (string):** Bolsa en que cotiza . Sólo posee datos si el bien es título
 
-<!-- -->
+-   **titulo_moneda (string):** tipo de moneda. Sólo posee datos si el bien es título             
 
--   **dinero\_cantidad (string):** monto en la moneda especificada. Sólo posee datos si el bien es dinero
+-   **otro_clasificacion (string):** otro tipo de bienes. Sólo posee datos si el bien es otro     
+
+-   **otro_detalle (string):** detalle de los bienes encuadrados en la categoría otros. Sólo posee datos si el bien es otro.
 
 ### Notas
 
