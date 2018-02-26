@@ -9,6 +9,8 @@ En este mismo orden de ideas, la Decisión Administrativa N° 483 (**http://www.
 
 En la sección notas se detallará la normativa Nacional e Internacional vinculada con la actividad del registro.
 
+http://datos.jus.gob.ar/dataset/bienes-secuestrados-y-decomisados-durante-el-proceso-penal
+
 Características
 ---------------
 
@@ -33,7 +35,7 @@ Recursos disponibles
 
 -   **Nombre:** bienes-secuestrados-decomisados-proceso-penal-AAAA-MM-DD.csv
 
--   **Descripción:** contiene los datos de los bienes secuestrados, decomisados o afectados a una medida cautelar, en el marco de un proceso penal, datos del juzgado, delito y características de cada bien tales como marca, modelo, etc.
+-   **Descripción del contenido:** se detallan los bienes secuestrados, decomisados o afectados a una medida cautelar, en el marco de un proceso penal, datos del juzgado, delito y características de cada bien tales como marca, modelo, etc.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
