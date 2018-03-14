@@ -39,7 +39,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** listado de bienes secuestrados y decomisados desde el año 2012 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -288,3 +288,5 @@ El CINCUENTA POR CIENTO (50%) del monto percibido en concepto de multas y otras 
 ARTÍCULO 15.- Sustitúyese el artículo 21 de la ley 20.680 y sus modificatorias, por el siguiente:
 
 Artículo 21: Los bienes decomisados serán vendidos o locados por la autoridad de aplicación en un plazo máximo de treinta (30) días corridos desde su decomiso, atendiendo a la naturaleza y características de aquellos. En el caso de que los bienes decomisados sean perecederos, el plazo se reducirá a cinco (5) días corridos; el producto de la venta o locación ingresará a rentas generales de la Nación.
+
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 482 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-482-APN-MJ.pdf), del 26 de Junio de 2017.
