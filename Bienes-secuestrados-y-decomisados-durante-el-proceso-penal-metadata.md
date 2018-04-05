@@ -123,6 +123,14 @@ Recursos disponibles
 
 -   **otro_detalle (string):** detalle de los bienes encuadrados en la categoría otros. Sólo posee datos si el bien es otro.
 
+### Bienes secuestrados y decomisados durante el proceso penal - AAAA
+
+-   **Nombre:** bienes-secuestrados-decomisados-durante-proceso-penal-AAAA.zip
+
+-   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+
+-   **Formato:** ZIP
+
 ### Notas
 
 Convenciones internacionales vinculadas con el RNBSD y las leyes nacionales que aprueban dichas convenciones.
