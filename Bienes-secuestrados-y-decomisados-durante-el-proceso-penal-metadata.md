@@ -39,7 +39,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** listado de bienes secuestrados y decomisados desde el año 2012 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** listado de bienes secuestrados y decomisados desde marzo de 2012 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
