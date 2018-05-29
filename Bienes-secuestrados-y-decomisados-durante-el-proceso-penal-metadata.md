@@ -13,7 +13,7 @@ http://datos.jus.gob.ar/dataset/bienes-secuestrados-y-decomisados-durante-el-pro
 
 Encuesta de satisfacción del usuario:
 -------------------------------------
-http://relevamientos.jus.gob.ar/index.php/286368?lang=es
+http://relevamientos.jus.gob.ar/index.php/286368
 
 Características
 ---------------
