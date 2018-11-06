@@ -139,6 +139,8 @@ Recursos disponibles
 
 ### Notas
 
+[Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
+
 Convenciones internacionales vinculadas con el RNBSD y las leyes nacionales que aprueban dichas convenciones.
 
 • Convención de las Naciones Unidas contra el Tráfico Ilícito de Estupefacientes y Sustancias Psicotrópicas. Ley N° 24.072.
