@@ -35,9 +35,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Bienes secuestrados y decomisados durante el proceso penal
+### Bienes secuestrados y decomisados durante el proceso penal - AAAAMMDD
 
--   **Nombre:** bienes-secuestrados-decomisados-proceso-penal-AAAA-MM-DD.csv
+-   **Nombre:** bienes-secuestrados-decomisados-proceso-penal-AAAAMMDD.csv
 
 -   **Descripción del contenido:** se detallan los bienes secuestrados, decomisados o afectados a una medida cautelar, en el marco de un proceso penal, datos del juzgado, delito y características de cada bien tales como marca, modelo, etc.
 
