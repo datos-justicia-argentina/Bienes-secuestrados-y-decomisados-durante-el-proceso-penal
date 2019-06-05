@@ -127,7 +127,7 @@ Recursos disponibles
 
 -   **otro_detalle (string):** detalle de los bienes encuadrados en la categoría otros. Sólo posee datos si el bien es otro
 
--   **provincia_indec_id (string):** código de la provincia donde se encuentra localizado el bien según la codificación de provincia implementada por INDEC
+-   **provincia_id (string):** código de la provincia donde se encuentra localizado el bien según la codificación INDEC (hasta 05/2019 nombre campo provincia_indec_id)
 
 ### Bienes secuestrados y decomisados durante el proceso penal - AAAA
 
