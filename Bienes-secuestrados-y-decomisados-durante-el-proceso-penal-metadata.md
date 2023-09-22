@@ -101,13 +101,13 @@ Recursos disponibles
 
 -   **automotor_anio (string):** año modelo del automotor. Sólo posee datos si el bien es automotor
 
--   **aeronave_numero_serie (string):** número de serie de la aeronave. Sólo posee datos si el bien es aeronave
-
 -   **aeronave_matricula (string):** número de matrícula de la aeronave. Sólo posee datos si el bien es aeronave
 
 -   **aeronave_marca (string):** marca de la aeronave. Sólo posee datos si el bien es aeronave
 
 -   **aeronave_modelo (string):** modelo de la aeronave. Sólo posee datos si el bien es aeronave
+
+-   **aeronave_numero_serie (string):** número de serie de la aeronave. Sólo posee datos si el bien es aeronave
 
 -   **buque_pais (string):** país al que pertenece el buque. Sólo posee datos si el bien es buque
 
@@ -125,7 +125,7 @@ Recursos disponibles
 
 -   **titulo_cantidad (string):** cantidad de títulos. Sólo posee datos si el bien es título  
 
--   **titulo_fecha_vencimiento (string):** fecha de vencimiento del título. Sólo posee datos si el bien es título
+-   **titulo_fecha_vencimiento (date):** fecha de vencimiento del título. Sólo posee datos si el bien es título
 
 -   **titulo_categoria (string):** categoría del título. Sólo posee datos si el bien es título  
 
