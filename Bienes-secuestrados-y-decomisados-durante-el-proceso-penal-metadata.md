@@ -53,13 +53,23 @@ Recursos disponibles
 
 -   **juzgado (string):** nombre de la autoridad interviniente según corresponda: Juzgado, Tribunal, Fiscalía
 
+-   **expediente (string):** es el número con el que se registra la causa o causas porque a veces son varias
+
+-   **causa (string):** se describe el delito y los participantes del mismo
+
 -   **tipo_delito (string):** describe el tipo de delito que se sustancia en el marco de un proceso penal
 
 -   **medida (string):** tipo de medida. Consiste en la medida adoptada por la autoridad interviniente en el marco del proceso penal. Pueden ser: afectado a medida cautelar – Embargo, afectado a otra medida, decomiso o secuestro
 
 -   **fecha_recepcion (date):** fecha de recepción del oficio por el Registro Nacional de Bienes Secuestrados y Decomisados durante el Proceso Penal
 
--   **fecha_medida (string):** fecha de la medida adoptada por la autoridad interviniente. No siempre es informada
+-   **fecha_oficio (date):** es la fecha en la que se libra el oficio, muchas veces es la sentencia final así que va a ser la misma fecha de la medida
+
+-   **fecha_medida (date):** fecha de la medida adoptada por la autoridad interviniente. No siempre es informada
+
+-   **fecha_desicion_judicial (date):** es la fecha en la que se resuelve la situación jurídica del bien
+
+-   **situacion_juridica (string):** es la situación en la que se encuentra el bien luego de su secuestro o decomiso
 
 -   **localizacion (string):** **:** lugar donde se encuentra el bien, ubicación física del bien
 
