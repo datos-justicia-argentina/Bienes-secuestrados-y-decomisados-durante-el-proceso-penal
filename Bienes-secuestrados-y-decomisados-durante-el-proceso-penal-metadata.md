@@ -53,9 +53,9 @@ Recursos disponibles
 
 -   **juzgado (string):** nombre de la autoridad interviniente según corresponda: Juzgado, Tribunal, Fiscalía
 
--   **expediente (string):** es el número con el que se registra la causa o causas porque a veces son varias
+-   **expediente (string):** es el número con el que se registra la causa o causas porque a veces son varias. Este campo es informado a partir de agosto de 2023
 
--   **causa (string):** se describe el delito y los participantes del mismo
+-   **causa (string):** se describe el delito y los participantes del mismo. Este campo es informado a partir de agosto de 2023
 
 -   **tipo_delito (string):** describe el tipo de delito que se sustancia en el marco de un proceso penal
 
@@ -63,13 +63,13 @@ Recursos disponibles
 
 -   **fecha_recepcion (date):** fecha de recepción del oficio por el Registro Nacional de Bienes Secuestrados y Decomisados durante el Proceso Penal
 
--   **fecha_oficio (date):** es la fecha en la que se libra el oficio, muchas veces es la sentencia final así que va a ser la misma fecha de la medida
+-   **fecha_oficio (date):** es la fecha en la que se libra el oficio, muchas veces es la sentencia final así que va a ser la misma fecha de la medida. Este campo es informado a partir de agosto de 2023
 
 -   **fecha_medida (date):** fecha de la medida adoptada por la autoridad interviniente. No siempre es informada
 
--   **fecha_desicion_judicial (date):** es la fecha en la que se resuelve la situación jurídica del bien
+-   **fecha_desicion_judicial (date):** es la fecha en la que se resuelve la situación jurídica del bien. Este campo es informado a partir de agosto de 2023
 
--   **situacion_juridica (string):** es la situación en la que se encuentra el bien luego de su secuestro o decomiso
+-   **situacion_juridica (string):** es la situación en la que se encuentra el bien luego de su secuestro o decomiso. Este campo es informado a partir de agosto de 2023
 
 -   **localizacion (string):** **:** lugar donde se encuentra el bien, ubicación física del bien
 
