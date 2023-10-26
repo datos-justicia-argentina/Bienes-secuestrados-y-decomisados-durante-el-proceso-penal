@@ -69,7 +69,17 @@ Recursos disponibles
 
 -   **fecha_desicion_judicial (date):** es la fecha en la que se resuelve la situación jurídica del bien. Este campo es informado a partir de agosto de 2023
 
--   **situacion_juridica (string):** es la situación en la que se encuentra el bien luego de su secuestro o decomiso. Este campo es informado a partir de agosto de 2023
+-   **situacion_juridica (string):** es la situación en la que se encuentra el bien luego de su secuestro o decomiso. Este campo es informado a partir de agosto de 2023. Puede tomar los valores:
+
+    -   1 - Asignación 
+
+    -   2 - Desafectación
+
+    -   3 - Devolución
+ 
+    -   4 - Otro
+ 
+    -   5 - Venta/subasta
 
 -   **localizacion (string):** **:** lugar donde se encuentra el bien, ubicación física del bien
 
