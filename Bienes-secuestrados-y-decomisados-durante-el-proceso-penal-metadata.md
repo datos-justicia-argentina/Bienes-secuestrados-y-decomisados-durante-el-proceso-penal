@@ -3,9 +3,9 @@ Bienes secuestrados y decomisados durante el proceso penal
 
 En este conjunto de datos se detallan los bienes secuestrados, decomisados y/ o afectados a una medida cautelar, durante la sustanciación de un proceso penal, que fueran informados al Registro de Bienes Secuestrados y Decomisados durante el Proceso Penal (RNBSD) por la autoridad interviniente en dicho proceso, cuya competencia es de carácter Nacional y/ o Federal.
 
-Dicho RNBSD ha sido se creado por [Decreto Nº 826](http://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183500/norma.htm) del 17 de Junio de 2011, en el ámbito del Ministerio de Justicia y Derechos Humanos de la Nación, para identificar, registrar, valuar y localizar la totalidad de los bienes secuestrados, decomisados o afectados a una medida cautelar, en el marco de un proceso penal, con la finalidad de articular, coordinar e implementar políticas públicas activas para combatir el lavado de activos de origen ilícito en nuestro país y la región.
+Dicho RNBSD ha sido se creado por [Decreto Nº 826](http://servicios.infoleg.gob.ar/infolegInternet/anexos/180000-184999/183500/norma.htm) del 17 de Junio de 2011, en el ámbito del Ministerio de Justicia de la Nación, para identificar, registrar, valuar y localizar la totalidad de los bienes secuestrados, decomisados o afectados a una medida cautelar, en el marco de un proceso penal, con la finalidad de articular, coordinar e implementar políticas públicas activas para combatir el lavado de activos de origen ilícito en nuestro país y la región.
 
-En este mismo orden de ideas, la [Decisión Administrativa N° 483](http://www.infoleg.gob.ar/infolegInternet/anexos/260000-264999/261473/norma.htm) del 17 de mayo de 2016, que aprueba la Estructura Organizativa del Ministerio de Justicia y Derechos Humanos, y determina que el RNBSD depende de la Coordinación de Registro de Bienes y Derechos Reales, dependiente de la Subsecretaria de Asuntos Registrales y determina cuál será la responsabilidad primaria y las acciones de dicho organismo.
+En este mismo orden de ideas, la [Decisión Administrativa N° 483](http://www.infoleg.gob.ar/infolegInternet/anexos/260000-264999/261473/norma.htm) del 17 de mayo de 2016, que aprueba la Estructura Organizativa del Ministerio de Justicia, y determina que el RNBSD depende de la Coordinación de Registro de Bienes y Derechos Reales, dependiente de la Subsecretaria de Asuntos Registrales y determina cuál será la responsabilidad primaria y las acciones de dicho organismo.
 
 En la sección notas se detallará la normativa Nacional e Internacional vinculada con la actividad del registro.
 
@@ -22,11 +22,11 @@ Características
 
 -   **Tags o Etiquetas:** bienes, bienes secuestrados, bienes decomisados, medida cautelar, proceso penal, aeronave, armas, vehículos, buque, dinero, estupefacientes, inmuebles
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional del Registro Nacional de Bienes Secuestrados y Decomisados durante el Proceso Penal
+-   **Organización:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional del Registro Nacional de Bienes Secuestrados y Decomisados durante el Proceso Penal
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional del Registro Nacional de Bienes Secuestrados y Decomisados durante el Proceso Penal
+-   **Autor:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional del Registro Nacional de Bienes Secuestrados y Decomisados durante el Proceso Penal
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional del Registro Nacional de Bienes Secuestrados y Decomisados durante el Proceso Penal
+-   **Responsable:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional del Registro Nacional de Bienes Secuestrados y Decomisados durante el Proceso Penal
 
 -   **Grupo:** Sistema Registral
 
@@ -325,4 +325,4 @@ ARTÍCULO 15.- Sustitúyese el artículo 21 de la ley 20.680 y sus modificatoria
 
 Artículo 21: Los bienes decomisados serán vendidos o locados por la autoridad de aplicación en un plazo máximo de treinta (30) días corridos desde su decomiso, atendiendo a la naturaleza y características de aquellos. En el caso de que los bienes decomisados sean perecederos, el plazo se reducirá a cinco (5) días corridos; el producto de la venta o locación ingresará a rentas generales de la Nación.
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 482 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-482-APN-MJ.pdf), del 26 de Junio de 2017.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 482 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2017-482-APN-MJ.pdf), del 26 de Junio de 2017.
